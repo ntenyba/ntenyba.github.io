@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ntenyba.github.io/sitemap.html
+Sitemap: https://ntenyba.github.io/app/sitemap.html
+Sitemap: https://ntenyba.github.io/assets/sitemap.html
+Sitemap: https://ntenyba.github.io/includes/sitemap.html
+Sitemap: https://ntenyba.github.io/src/sitemap.html
